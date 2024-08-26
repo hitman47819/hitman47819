@@ -18,6 +18,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitman47819&show_icons=true&locale=en&layout=compact" alt="hitman47819" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitman47819&show_icons=true&locale=en" alt="hitman47819" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitman47819&" alt="hitman47819" /></p>
